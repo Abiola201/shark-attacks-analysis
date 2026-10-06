@@ -38,7 +38,7 @@ This capstone was assigned as part of the Digitaley Drive Data Analyst Bootcamp.
 The deliverable is an interactive Excel dashboard built around these six questions, supported by the full written analysis.
 
 ---
-![Dashboard Overview](Screenshot%20dashboard%20overview.png)
+![Dashboard Overview](Screenshot 2026-10-03 171229.png)
 ## Data Sources
 
 The dataset is a historical record of shark attacks compiled from incident reports, provided as a single spreadsheet of 25,614 rows and 22 columns. Only 6,094 of those rows contained real records — the remainder were blank padding rows and one stray marker row at the very end of the file, both removed during cleaning.
@@ -87,7 +87,7 @@ Cleaning was done in Power Query and Excel formulas:
 ### Q1 — Annual trend since 1900
 
 Recorded attacks have risen sharply, from fewer than 20 a year in the early 1900s to a peak of over 140 in a single year by the 2010s, with a smaller spike around the 1950s–60s. This rise reflects growth in beach tourism and improved incident reporting, not sharks becoming more dangerous. The apparent dip at the very end reflects 2017's incomplete data (Jan–Jun only), not a real decline.
-![Annual Trend](Screenshot%20annual%20trend.png)
+
 ### Q2 — Countries and dangerous locations
 
 The US records by far the most attacks (2,160), followed by Australia (1,303) and South Africa (571). Within these countries, risk concentrates heavily: Florida leads in the US, New South Wales in Australia, KwaZulu-Natal in South Africa.

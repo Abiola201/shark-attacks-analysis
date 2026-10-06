@@ -38,7 +38,7 @@ This capstone was assigned as part of the Digitaley Drive Data Analyst Bootcamp.
 The deliverable is an interactive Excel dashboard built around these six questions, supported by the full written analysis.
 
 ---
-![Dashboard Overview](Screenshot 2026-10-03 171229.png)
+![Dashboard Overview](Screenshot%202026-10-03%20171229.png)
 ## Data Sources
 
 The dataset is a historical record of shark attacks compiled from incident reports, provided as a single spreadsheet of 25,614 rows and 22 columns. Only 6,094 of those rows contained real records — the remainder were blank padding rows and one stray marker row at the very end of the file, both removed during cleaning.
